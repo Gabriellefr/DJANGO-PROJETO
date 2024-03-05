@@ -8,6 +8,9 @@ static/
 media/
 project/local_settings.py
 README.md
+.gitgnore
+desktop.ini
+
 
 # Backup files #
 *.bak
